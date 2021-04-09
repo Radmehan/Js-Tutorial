@@ -1,0 +1,14 @@
+console.log("Hello World");
+var name="harry";
+console.log(name);
+var channel;
+console.log(name, channel);
+var marks=34;
+console.log(name, channel,marks);
+var city="chittagong";
+var city2="Dhaka";
+console.log(city+"  "+city2);
+console.log(marks+city);
+const arr1=[3,2,1,32,45];
+arr1.push(23);
+console.log(arr1);

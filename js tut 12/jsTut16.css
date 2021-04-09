@@ -1,0 +1,11 @@
+/**{ margin: 0px; padding: 0px; }*/
+.child { width: 10%; border: 1px solid; display: inline-block; float: left;padding: 5px 5px }
+#container {max-width: 100%;width: 85%;margin: auto;display: block;/* overflow: hidden; */    height: 29px;}
+h1#heading { margin: 50px; font-size: 50px; }
+#container2 { max-width: 100%; max-height: 100%; height: 260px; text-align: center; padding: 10px 5px; border: 1px solid; }
+section.lastSec {
+    margin-top: 15px;
+}
+.from{}
+.footer { max-width: 100%; width: 85%; border: 1px solid black; margin: 1% auto auto; display: block; overflow: hidden; }
+.no { width: 22.4%; display: inline-block; float: left; border: 1px solid; padding: 1.2%; }

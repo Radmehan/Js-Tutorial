@@ -1,0 +1,11 @@
+#container{
+    background: #da8484;
+    width: 400px;
+    color: white;
+    margin: auto;
+    padding: 10px 20px;
+    margin-top: 50px;overflow: hidden;
+}
+div#container p {
+    color: #2f0d0d;
+}

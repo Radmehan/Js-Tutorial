@@ -1,0 +1,12 @@
+console.time("tour code took");
+console.log("welcome to js tutorial");
+console.log(4+34);
+console.log(true);
+console.log([4,45,67,12]);
+console.log({name:"harry",marks:"34",add:"india"});
+console.table({name:"harry",marks:"34",add:"india"});
+console.warn("this is warning");
+//console.clear();
+console.timeEnd("tour code took");
+//console.assert(566<189, "age>189 is not possible");
+console.error("this is an eror");
